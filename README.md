@@ -3,7 +3,7 @@
 - 🌱 Logica de programação - Trybe
 - 🌱 JavaScript - Trybe
 - 🌱 Análise e Desenvolvimento de sistemas - Estácio de sá
-- 🤔 Iniciando atualmente na área e tentando me preparar para os desáfios imposto a minhas Skills.
+- 🤔 Iniciando atualmente na área, me preparando para os desáfios imposto a minhas Skills.
 - 📫 Procurando Estágio na área de Desenvolvimento de Software.
 - ⚡ "A busca constante pelo conhecimento é a chave para abrir portas que ainda nem sabemos que existem."
 
