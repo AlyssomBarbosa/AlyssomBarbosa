@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey people 👋
 
-<!--
-**AlyssomBarbosa/AlyssomBarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Logica de programação - Trybe
+- 🌱 JavaScript - Trybe
+- 🌱 Análise e Desenvolvimento de sistemas - Estácio de sá
+- 🤔 Iniciando atualmente na área e tentando me preparar para os desáfios imposto a minhas Skills.
+- 📫 Procurando Estágio na área de Desenvolvimento de Software.
+- ⚡ "A busca constante pelo conhecimento é a chave para abrir portas que ainda nem sabemos que existem."
 
-Here are some ideas to get you started:
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AlyssomBarbosa" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a></a>
