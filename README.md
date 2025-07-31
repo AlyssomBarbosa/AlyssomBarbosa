@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://i.imgur.com/WhatsAppImage2025-07-31at12.47.36.jpg"alt="Banner GitHub Alyssom" width="100%" />
+  <img src="https://i.imgur.com/WhatsApp Image 2025-07-31 at 12.47.36.jpeg alt="Banner GitHub Alyssom" width="100%" />
 </p>
 
 <!-- Frase -->
