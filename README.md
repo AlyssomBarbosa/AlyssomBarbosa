@@ -1,5 +1,10 @@
 ## Hey people 👋
 
+
+<p align="center">
+  <img src="https://link-da-imagem.com/seu-banner.png" alt="Banner GitHub" />
+</p>
+
 - 🌱 Logica de programação - Trybe
 - 🌱 JavaScript - Trybe
 - 🌱 Análise e Desenvolvimento de sistemas - Estácio de sá
