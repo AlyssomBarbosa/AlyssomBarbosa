@@ -19,10 +19,8 @@ Atualmente em transição de carreira para **Front-end**, com um pouco de bagage
 
 
 ---
-
-### 🚀 Tecnologias em evolução
-
-## 🎓 Formação Acadêmica e Cursos
+<details>
+<summary>🎓 Formação Acadêmica e Cursos</summary>
 
 ### 🏫 Faculdade  
 🎓 **Estácio de Sá** — Análise e Desenvolvimento de Sistemas  
@@ -35,6 +33,9 @@ Atualmente em transição de carreira para **Front-end**, com um pouco de bagage
 
 🛠️ **JavaScript: Fundamentos ao Avançado** — Trybe  
 📅 *Em andamento* ▓▓▓░░░░░░░ 30%
+
+</details>
+
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
