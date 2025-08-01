@@ -12,8 +12,15 @@
 
 Olá! Eu me chamo **Alyssom Barbosa**, sou um estudante apaixonado por tecnologia, com os olhos no futuro e o coração em Cristo. 🙏  
 Atualmente em transição de carreira para **Front-end**, com um pouco de bagagem em design gráfico, audiovisual e criatividade de sobra!  
-<br>
+
 📍 Sumaré - SP | 🎮 Gamer | 🧠 Foco em programação com propósito
+
+<br>
+
+
+---
+
+### 🚀 Tecnologias em evolução
 
 ## 🎓 Formação Acadêmica e Cursos
 
@@ -28,11 +35,6 @@ Atualmente em transição de carreira para **Front-end**, com um pouco de bagage
 
 🛠️ **JavaScript: Fundamentos ao Avançado** — Trybe  
 📅 *Em andamento* ▓▓▓░░░░░░░ 30%
-
-
----
-
-### 🚀 Tecnologias em evolução
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
