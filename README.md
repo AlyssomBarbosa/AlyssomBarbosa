@@ -4,16 +4,16 @@
 </p>
 
 <!-- Frase -->
-<h1 align="center">"Transformando linhas de código em legado — com fé, força e visão!"</h1>
+<h1 align="center">"Transformando linhas de código em legado com fé, força e visão!"</h1>
 
 ---
 
 ### 💻 Sobre mim
 
 Olá! Eu me chamo **Alyssom Barbosa**, sou um estudante apaixonado por tecnologia, com os olhos no futuro e o coração em Cristo. 🙏  
-Atualmente em transição de carreira para **Front-end**, com bagagem em design gráfico, audiovisual e criatividade de sobra!  
+Atualmente em transição de carreira para **Front-end**, com um pouco de bagagem em design gráfico, audiovisual e criatividade de sobra!  
 <br>
-📍 Sumaré - SP | 🎮 Gamer | 🛠️ Técnico de equipamentos médicos | 🧠 Foco em programação com propósito
+📍 Sumaré - SP | 🎮 Gamer | 🧠 Foco em programação com propósito
 
 ## 🎓 Formação Acadêmica e Cursos
 
