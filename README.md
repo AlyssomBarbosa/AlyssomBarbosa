@@ -15,6 +15,21 @@ Atualmente em transição de carreira para **Front-end**, com bagagem em design 
 <br>
 📍 Sumaré - SP | 🎮 Gamer | 🛠️ Técnico de equipamentos médicos | 🧠 Foco em programação com propósito
 
+## 🎓 Formação Acadêmica e Cursos
+
+### 🏫 Faculdade  
+🎓 **Estácio de Sá** — Análise e Desenvolvimento de Sistemas  
+📅 *Cursando — 1º semestre* ▓░░░░░░░░░░ 10%
+
+### 📚 Cursos  
+
+✅ **Lógica de Programação** — Trybe  
+📅 *Concluído*
+
+🛠️ **JavaScript: Fundamentos ao Avançado** — Trybe  
+📅 *Em andamento* ▓▓▓░░░░░░░ 30%
+
+
 ---
 
 ### 🚀 Tecnologias em evolução
